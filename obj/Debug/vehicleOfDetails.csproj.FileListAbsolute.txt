@@ -1,0 +1,7 @@
+C:\Users\USSL\Desktop\vehicleOfDetails\obj\Debug\vehicleOfDetails.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\vehicleOfDetails\obj\Debug\vehicleOfDetails.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Desktop\vehicleOfDetails\bin\Debug\vehicleOfDetails.exe.config
+C:\Users\USSL\Desktop\vehicleOfDetails\bin\Debug\vehicleOfDetails.exe
+C:\Users\USSL\Desktop\vehicleOfDetails\bin\Debug\vehicleOfDetails.pdb
+C:\Users\USSL\Desktop\vehicleOfDetails\obj\Debug\vehicleOfDetails.exe
+C:\Users\USSL\Desktop\vehicleOfDetails\obj\Debug\vehicleOfDetails.pdb

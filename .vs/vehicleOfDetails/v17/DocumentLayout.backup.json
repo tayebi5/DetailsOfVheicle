@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:vehicletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|c:\\users\\ussl\\desktop\\vehicleofdetails\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\ifourwheler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:ifourwheler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\itwowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:itwowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:fourwheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:motorcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF9D4607-F3AA-49E4-B8E9-47D86F5D8EAF}|vehicleOfDetails.csproj|solutionrelative:twowheeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:12:43.008Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TwoWheeler.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\TwoWheeler.cs",
+              "RelativeDocumentMoniker": "TwoWheeler.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\TwoWheeler.cs",
+              "RelativeToolTip": "TwoWheeler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:37:10.064Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFourWheler.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\IFourWheler.cs",
+              "RelativeDocumentMoniker": "IFourWheler.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\IFourWheler.cs",
+              "RelativeToolTip": "IFourWheler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:36:30.997Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleType.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\VehicleType.cs",
+              "RelativeDocumentMoniker": "VehicleType.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\VehicleType.cs",
+              "RelativeToolTip": "VehicleType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:22:17.607Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\vehicle.cs",
+              "RelativeDocumentMoniker": "vehicle.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\vehicle.cs",
+              "RelativeToolTip": "vehicle.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:13:33.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITwoWheeler.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\ITwoWheeler.cs",
+              "RelativeDocumentMoniker": "ITwoWheeler.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\ITwoWheeler.cs",
+              "RelativeToolTip": "ITwoWheeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:35:12.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fourWheeler.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\fourWheeler.cs",
+              "RelativeDocumentMoniker": "fourWheeler.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\fourWheeler.cs",
+              "RelativeToolTip": "fourWheeler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:46:38.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MotorCycle.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\MotorCycle.cs",
+              "RelativeDocumentMoniker": "MotorCycle.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\MotorCycle.cs",
+              "RelativeToolTip": "MotorCycle.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:08:34.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "C:\\Users\\USSL\\Desktop\\vehicleOfDetails\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T05:25:40.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
